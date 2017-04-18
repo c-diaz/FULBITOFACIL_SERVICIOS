@@ -1,0 +1,26 @@
+
+=========== Inicio - Registro del ITEM_DEVICE #Orden-> 12724189 #ItemId-> 13531462 Usuario-> DGTEODOSIO===========
+2017-04-18 11:14:28 INFO  GenericObject:169 - [Insertar item al crear]: FlagPenaltyFunct: 1
+2017-04-18 11:14:28 INFO  GenericObject:178 - [Insertar item al crear]: OrderId: 12724189 ItemId: 13531462
+2017-04-18 11:14:28 INFO  GenericObject:179 - [Insertar item al crear]: PriceType:  PagoPenalidad: S precioExcepcion: 
+[validarPenalidadCambioDePlan] customerId::81685||phone::51983419893||appId::27||specificationId::2013
+[StaticProperties] Se leen los valores ya cargados
+[PenaltyDAO.getConfigurationValues] - Tamanio list: 1
+[PenaltyDAO.getConfigurationValues] - ErrorMsg: null
+[StaticProperties] Se leen los valores ya cargados
+[PenaltyDAO.getPlanTarifarioPenalty] - planTarifarioId: 7413
+[PenaltyDAO.getPlanTarifarioPenalty] - ErrorMsg: null
+[StaticProperties] Se leen los valores ya cargados
+pastrItemServIds.get(i)===null
+===01
+[StaticProperties] Se leen los valores ya cargados
+pastrItemServIds.get(i)===null
+===01
+[validarPenalidadCambioDePlan] penalty::5.0||pricePlan::61.6||originalPricePlan:75.6
+2017-04-18 11:14:28 INFO  GenericObject:206 - [Insertar item al crear]: Entra al metodo grabarItemPenalidad
+[grabarItemPenalidad] INSERT del ITEM PENALTY # Orden: 12724189 Usuario: DGTEODOSIO
+[grabarItemPenalidad] Entra al Metodo: penaltyDAO.doUpdateItemPenalty
+[PenaltyDAO.doUpdateItemPenalty]- OPERATOR: INSERT
+[PenaltyDAO.doUpdateItemPenalty]- ErrorMsg: null
+=========== Fin - Registro del ITEM ===========
+ ========FIN DE LAS SECCIONES DINÃMICAS #Orden -> 12724189 - Usuario -> DGTEODOSIO - EVENTO ON_SAVE====SPECIFICATIONID 2013=======
